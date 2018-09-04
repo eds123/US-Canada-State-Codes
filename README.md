@@ -4,17 +4,18 @@ Simple lists of the two letter postal codes for each state/province in the Unite
 
 Each are provided in JSON and YAML formats and use the [ISO 3166-2](http://https://en.wikipedia.org/wiki/ISO_3166-2) standard.
 
-### United States
+These two formats can be used in Rails with the handy [Active Hash](https://github.com/zilkey/active_hash) gem
+
+### [United States](US/)
 
 50 states and no districts.
 
-### Canada
+### [Canada](CA/)
 
 10 provinces and 3 territories.
 
 ---
 Special thanks to [List-of-US-States](https://github.com/jasonong/List-of-US-States) repo for US states formatted in YAML.
-
 
 
 
