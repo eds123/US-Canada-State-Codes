@@ -8,7 +8,7 @@ These two formats can be used in Rails with the handy [Active Hash](https://gith
 
 ### [United States](US/)
 
-50 states and no districts.
+50 states and 1 district (Washington DC).
 
 ### [Canada](CA/)
 

@@ -1,14 +1,10 @@
-AK:
-   name: Alaska
-   abbreviation: AK
-
 AL:
    name: Alabama
    abbreviation: AL
 
-AS:
-   name: American Samoa
-   abbreviation: AS
+AK:
+   name: Alaska
+   abbreviation: AK
 
 AZ:
    name: Arizona
@@ -38,10 +34,6 @@ DC:
    name: District of Columbia
    abbreviation: DC
 
-FM:
-   name: Federated States of Micronesia
-   abbreviation: FM
-
 FL:
    name: Florida
    abbreviation: FL
@@ -49,10 +41,6 @@ FL:
 GA:
    name: Georgia
    abbreviation: GA
-
-GU:
-   name: Guam
-   abbreviation: GU
 
 HI:
    name: Hawaii
@@ -89,10 +77,6 @@ LA:
 ME:
    name: Maine
    abbreviation: ME
-
-MH:
-   name: Marshall Islands
-   abbreviation: MH
 
 MD:
    name: Maryland
@@ -154,10 +138,6 @@ ND:
    name: North Dakota
    abbreviation: ND
 
-MP:
-   name: Northern Mariana Islands
-   abbreviation: MP
-
 OH:
    name: Ohio
    abbreviation: OH
@@ -170,17 +150,9 @@ OR:
    name: Oregon
    abbreviation: OR
 
-PW:
-   name: Palau
-   abbreviation: PW
-
 PA:
    name: Pennsylvania
    abbreviation: PA
-
-PR:
-   name: Puerto Rico
-   abbreviation: PR
 
 RI:
    name: Rhode Island
@@ -209,10 +181,6 @@ UT:
 VT:
    name: Vermont
    abbreviation: VT
-
-VI:
-   name: Virgin Islands
-   abbreviation: VI
 
 VA:
    name: Virginia
