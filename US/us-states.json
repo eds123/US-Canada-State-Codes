@@ -16,6 +16,14 @@
     "abbreviation": "AR"
   },
   "AA": {
+    "name": "Armed Forces America",
+    "abbreviation": "AA"
+  },
+  "AE": {
+    "name": "Armed Forces Europe",
+    "abbreviation": "AE"
+  },
+  "AP": {
     "name": "Armed Forces Pacific",
     "abbreviation": "AP"
   },
