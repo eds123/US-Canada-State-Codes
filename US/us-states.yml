@@ -14,6 +14,18 @@ AR:
    name: Arkansas
    abbreviation: AR
 
+AA:
+  name: Armed Forces America
+  abbreviation: AA
+
+AA:
+  name: Armed Forces Europe
+  abbreviation: AE
+
+AA:
+  name: Armed Forces Pacific
+  abbreviation: AP
+
 CA:
    name: California
    abbreviation: CA

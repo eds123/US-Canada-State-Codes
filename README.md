@@ -2,7 +2,7 @@
 
 Simple lists of the two letter postal codes for each state/province in the United States and Canada.
 
-Each are provided in JSON and YAML formats and use the [ISO 3166-2](http://https://en.wikipedia.org/wiki/ISO_3166-2) standard.
+Each are provided in JSON and YAML formats and use the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) standard.
 
 These two formats can be used in Rails with the handy [Active Hash](https://github.com/zilkey/active_hash) gem
 
