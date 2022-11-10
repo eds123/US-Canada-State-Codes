@@ -4,8 +4,6 @@ Simple lists of the two letter postal codes for each state/province in the Unite
 
 Each are provided in JSON and YAML formats and use the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) standard.
 
-These two formats can be used in Rails with the handy [Active Hash](https://github.com/zilkey/active_hash) gem
-
 ### [United States](US/)
 
 50 states, 1 district (Washington DC) and 3 Overseas Military Destinations.
